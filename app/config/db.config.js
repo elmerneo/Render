@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "root2022",
-  DB: "postgres",
+  HOST: "dpg-cko81tkve64s73cie4o0-a.oregon-postgres.render.com",
+  USER: "umg_antigua_test_user",
+  PASSWORD: "yllvJ5QesqWS4bjaNPYvbHywebI9U007",
+  DB: "umg_antigua_test",
   dialect: "postgres",
   pool: {
     max: 5,
